@@ -13,7 +13,7 @@
       ]
     },
     "production": {
-      "plugins": ["lodash", "transform-es2015-modules-commonjs"]
+      "plugins": ["transform-es2015-modules-commonjs"]
     },
     "es": {
       "plugins": ["lodash", "./babel-lodash-es"]
